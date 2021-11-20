@@ -357,7 +357,7 @@ def zaid_about_callback(update, context):
     query = update.callback_query
     if query.data == "zaid_":
         query.message.edit_text(
-            text=""" ℹ️ I am [『Luna Robot』](t.me/DevilTrishaRoBot), a powerful group management bot built to help you manage your group easily.
+            text=""" ℹ️ I am [『Luna Robot』](t.me/Luna_MusicBot), a powerful group management bot built to help you manage your group easily.
                  \n❍ I can restrict users.
                  \n❍ I can greet users with customizable welcome messages and even set a group's rules.
                  \n❍ I have an advanced anti-flood system.

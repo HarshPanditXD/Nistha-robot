@@ -1,4 +1,4 @@
-<h1 align="center"><b> 『Luna』『Robot』 </b></h1>
+<h1 align="center"><b>『Luna』『Robot』</b></h1>
 
 <h4 align="center">A PᴏᴡᴇʀFᴜʟʟ ,Sᴍᴀʀᴛ Aɴᴅ Sɪᴍᴘʟᴇ Aɴᴅ Gʀᴏᴜᴘ Mᴀɴᴀɢᴇʀ.🎵𝐆𝐫𝐨𝐮𝐩 𝐌𝐮𝐬𝐢𝐜 𝐏𝐥𝐚𝐲𝐞𝐫🎵 <br> ... Written with AioGram , Pyrogram and Telethon...</h4>
 <p align='center'>
@@ -27,7 +27,18 @@ The easiest way to deploy this Bot is via Heroku.
 ## ✨ 𝐏𝐥𝐞𝐚𝐬𝐞 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐇𝐞𝐫𝐞 ✨
 
 ### 𝙎𝙥𝙚𝙘𝙞𝙖𝙡 𝘾𝙧𝙚𝙙𝙞𝙩𝙨 ⚡
-- [𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫]https://t.me/harsh_shukla_xd) 
+-## ✨ 𝐏𝐥𝐞𝐚𝐬𝐞 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐇𝐞𝐫𝐞 ✨
+## FIGHTER GROUP-[ALONE BOY🇮🇳](https://t.me/Team_Blaze_Fighter)
+## CHAT GROUP -[MISS PRIYA🇮🇳](https://t.me/FULL_ON_MSTII)
+## FED CHAANNEL -[SHADOW🇮🇳](https://t.me/TheBlaze_Official_Fed)
+
+###𝙎𝙥𝙚𝙘𝙞𝙖𝙡 𝘾𝙧𝙚𝙙𝙞𝙩𝙨 ⚡
+## 𝙾𝚆𝙽𝙴𝚁 -[Harsh🇮🇳](https://t.me/Harsh_shukla_xd)
+## 𝙲𝙾 𝙾𝚆𝙽𝙴𝚁 -[Shadow🇮🇳](https://t.me/Official_Shadoww)
+## 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 -[Priya🇮🇳](https://t.me/miss_c_h_e_r_r_y)
+## BESTI - [Krishu🇮🇳](https://t.me/KRISHU_1_4_3)
+## BESTU - [Venom🇮🇳](https://t.me/Toretto_x)
+## BHAI - [Alone Boy🇮🇳](https://t.me/EVIL_IS_OP)) 
 
 ### 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 & 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 🎑
 <a href="https://t.me/the_Secret_worlds"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/team_Blaze_Fighter"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>

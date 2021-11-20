@@ -1,7 +1,7 @@
 {
-      "name": "【🇮🇳♡➣𝐓𝐫𝐢𝐬𝐡𝐚➣♡🇮🇳】 𝐌𝐚𝐧𝐚𝐠𝐞𝐫",
+      "name": "『Luna Robot』",
       "description": "Telegram group management bot.",
-      "logo": "https://telegra.ph/file/3f3c1824acae809163899.jpg",
+      "logo": "https://telegra.ph/file/0b7b6460e1dc3a8bbf5be.jpg",
       "keywords": [
          "telegram",
          "anime",
@@ -9,7 +9,7 @@
          "manager",
          "TGN"
       ],   
-   "repository": "https://github.com/rakeshyt/TrishaManager",
+   "repository": "https://github.com/unknownvip/Luna-Robot",
    "addons": [
       {
          "options": {
@@ -67,12 +67,12 @@
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "LegendRajOp"
+         "value": "Harsh_shukla_xd"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
          "required": true,
-         "value": "JaiHindChatting"
+         "value": "The_Secret_worlds"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
@@ -163,7 +163,7 @@
       "URL": {
          "description": "The Heroku App URL :-  https://<appname>.herokuapp.com/",
          "required": false,
-         "value": "https://trishamanager.herokuapp.com/"
+         "value": "https://luna-robot.herokuapp.com/"
       },
       "No_LOAD": {
          "description": "Dont load these modules cause they shit, space separation",
@@ -182,7 +182,7 @@
       "DONATION_LINK": {
          "description": "Optional: link where you would like to receive donations. If you are a noob, better leave it linking to paul",
          "required": false,
-         "value": "https://t.me/JaiHindChatting"
+         "value": "https://t.me/The_Secret_worlds"
       },
       "DEL_CMDS": {
          "description": "Set this to True if you want to delete command messages from users who don't have the perms to run that command.",

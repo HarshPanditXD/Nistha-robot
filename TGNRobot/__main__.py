@@ -85,9 +85,9 @@ buttons = [
             text="➕ Aᴅᴅ ᴍᴇ ᴛᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ➕", url="t.me/Luna_MusicBot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="Pᴏᴡᴇʀᴇᴅ Bʏ", url=f"https://t.me/harsh_shukla_xd"),
+        InlineKeyboardButton(text="Pᴏᴡᴇʀᴇᴅ Bʏ", url=f"https://t.me/The_Blaze_Network"),
         InlineKeyboardButton(
-            text="Fɪɢʜᴛᴇʀ Gʀᴏᴜᴘ", url=f"https://t.me/Team_Blaze_Fighter"
+            text="Bʟᴀᴢᴇ Sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/blaze_spammer"
         ),
     ],
     [

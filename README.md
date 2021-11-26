@@ -1,6 +1,6 @@
 <h1 align="center"><b>『Luna Robot』</b></h1>
 
-<h4 align="center">A PᴏᴡᴇʀFᴜʟʟ ,Sᴍᴀʀᴛ Aɴᴅ Sɪᴍᴘʟᴇ Aɴᴅ Gʀᴏᴜᴘ Mᴀɴᴀɢᴇʀ.🎵𝐆𝐫𝐨𝐮𝐩 𝐌𝐮𝐬𝐢𝐜 𝐏𝐥𝐚𝐲𝐞𝐫🎵 <br> ... Written with AioGram , Pyrogram and Telethon...</h4>
+<h4 align="center">A PᴏᴡᴇʀFᴜʟʟ ,Sᴍᴀʀᴛ Aɴᴅ Sɪᴍᴘʟᴇ Aɴᴅ Gʀᴏᴜᴘ Mᴀɴᴀɢᴇʀ.🎵𝐆𝐫𝐨𝐮𝐩 𝐌𝐮𝐬𝐢𝐜 𝐏𝐥𝐚𝐲𝐞𝐫🎵 <br> ... Written with Harsh , Pyrogram and Telethon...</h4>
 <p align='center'>
   <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat-square&logo=python&color=blue" /> </a>
   <a href="https://github.com/unknownvip/Luna-Robot/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>

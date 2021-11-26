@@ -9,7 +9,7 @@ REPO_TEXT = "**A Powerful [BOT](t.me/Luna_MusicBot) to Make Your Groups Secured 
   
 BUTTONS = InlineKeyboardMarkup(
       [[
-        InlineKeyboardButton("⚡ ʀᴇᴘᴏꜱɪᴛᴏʀᴇᴍ🔥", url=f"https://github.com/unknownvip/Luna-Robot"),
+        InlineKeyboardButton("⚡ ʀᴇᴘᴏꜱɪᴛᴏʀᴇᴍ🔥", url=f"https://github.com/TEAM-BLAZE/BLAZE-SPAMMER-ROBOT"),
       ],[
         InlineKeyboardButton("ꜱᴜᴘᴘᴏʀᴛ ⚡", url="https://t.me/The_Secret_worlds"),
       ]]

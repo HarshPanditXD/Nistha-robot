@@ -74,8 +74,8 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-ʜᴏɪ, ɪ ᴍ 『Luna Robot』
-`ɪ'ᴍ ʜᴇʀᴇ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴛᴏ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ ᴀɴᴅ ɪ ᴍ ᴠᴇʀʏ ᴘᴏᴡᴇʀꜰᴜʟʟ ʙᴏᴛ! ʜɪᴛ` /help
+Hᴇy, 𝐈'ᴍ 『𝗠𝐈𝐒𝐒 𝗟𝐔𝐍𝐀🕊️⃝🦋𝗥𝐎𝗕𝐎𝗧』
+`𝐈'ᴍ 𝐇ᴇʀᴇ 𝐓ᴏ 𝐇ᴇʟᴘ 𝐘ᴏᴜ 𝐓ᴏ 𝐌ᴀɴᴀɢᴇ 𝐘ᴏᴜʀ 𝐆ʀᴏᴜᴘꜱ 𝐀ɴᴅ 𝐈,ᴍ 𝐕ᴇʀʏ 𝐏ᴏᴡᴇʀꜰᴜʟʟ 𝐁ᴏᴛ! 𝐇ɪᴛ` /help
  [❤](https://telegra.ph/file/0b7b6460e1dc3a8bbf5be.jpg)
 """
 

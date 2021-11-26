@@ -82,30 +82,30 @@ Hᴇy, 𝐈'ᴍ 『𝗠𝐈𝐒𝐒 𝗟𝐔𝐍𝐀🕊️⃝🦋𝗥𝐎𝗕�
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕ Aᴅᴅ ᴍᴇ ᴛᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ➕", url="t.me/Luna_MusicBot?startgroup=true"),
+            text="➕ ⚡𝐀ᴅᴅ 𝐌ᴇ 𝐓ᴏ 𝐎ᴜʀ 𝐆ʀᴏᴜᴩ⚡ ➕", url="t.me/Luna_MusicBot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="Pᴏᴡᴇʀᴇᴅ Bʏ", url=f"https://t.me/The_Blaze_Network"),
+        InlineKeyboardButton(text="📢𝐏ᴏᴡᴇʀᴇᴅ 𝐁y", url=f"https://t.me/The_Blaze_Network"),
         InlineKeyboardButton(
-            text="Bʟᴀᴢᴇ Sᴜᴘᴘᴏʀᴛ", url=f"https://t.me/blaze_spammer"
+            text="✨𝐁ʟᴀᴢᴇ 𝐒ᴜᴩᴩᴏʀᴛ", url=f"https://t.me/blaze_spammer"
         ),
     ],
     [
         InlineKeyboardButton(
-            text="Sᴜᴘᴘᴏʀᴛ Cʜᴀᴛ Gʀᴏᴜᴘ", url=f"https://t.me/The_Secret_worlds"
+            text="💫𝐒ᴜᴩᴩᴏʀᴛ 𝐂ʜᴀᴛ 𝐆ʀᴏᴜᴩ💫", url=f"https://t.me/The_Secret_worlds"
         ),
     ],
     [
-        InlineKeyboardButton(text="ʜᴇʟᴘ ᴀɴᴅ ᴄᴏᴍᴍᴀɴᴅꜱ", callback_data="help_back"),
+        InlineKeyboardButton(text="🔐𝐇ᴇʟᴩ 𝐀ɴᴅ 𝐂ᴏᴍᴍᴀɴᴅ🔐", callback_data="help_back"),
     ],
 ]
 
 
 HELP_STRINGS = """
 `ʏᴏᴜ ᴄᴀɴ ᴄʜᴏᴏꜱᴇ ᴀɴ ᴏᴘᴛɪᴏɴ ʙᴇʟᴏᴡ, ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴀ ʙᴜᴛᴛᴏɴ..`
-ᴀʟꜱᴏ ʏᴏᴜ ᴄᴀɴ ᴀꜱᴋ ᴀɴʏᴛʜɪɴɢ ɪɴ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ [❤️](https://telegra.ph/file/0b7b6460e1dc3a8bbf5be.jpg)"""
+ᴀʟꜱᴏ ʏᴏᴜ ᴄᴀɴ ᴀꜱᴋ ᴀɴʏᴛʜɪɴɢ ɪɴ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ [❤️](https://telegra.ph/file/7e95a40d145e56a3e9053.jpg)"""
 
-START_IMG = "https://telegra.ph/file/0b7b6460e1dc3a8bbf5be.jpg"
+START_IMG = "https://telegra.ph/file/7e95a40d145e56a3e9053.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
  You can support the project ][𝗛𝗮𝗿𝘀𝗵](t.me/The_Secret_worlds) \
@@ -393,7 +393,7 @@ def Source_about_callback(update, context):
     query = update.callback_query
     if query.data == "source_":
         query.message.edit_text(
-            text=""" Hi..🤗 I am 『Luna Robot』(t.me/Luna_MusicBot)
+            text=""" Hᴇy, 𝐈'ᴍ 『𝗠𝐈𝐒𝐒 𝗟𝐔𝐍𝐀🕊️⃝🦋𝗥𝐎𝗕𝐎𝗧』(t.me/Luna_MusicBot)
                  \nHere is the [Source Code](https://github.com/unknownvip/Luna-Robot) .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,

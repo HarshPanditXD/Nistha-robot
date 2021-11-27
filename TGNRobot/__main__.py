@@ -74,15 +74,15 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-Hᴇy, 𝐈'ᴍ 『𝗠𝐈𝐒𝐒 𝗟𝐔𝐍𝐀🕊️⃝🦋𝗥𝐎𝗕𝐎𝗧』
+Hᴇy, 𝐈'ᴍ ✨𝗡𝐈𝐒𝗧𝐇𝗔🕊️⃝🦋𝗥𝐎𝗕𝐎𝗧✨
 `𝐈'ᴍ 𝐇ᴇʀᴇ 𝐓ᴏ 𝐇ᴇʟᴘ 𝐘ᴏᴜ 𝐓ᴏ 𝐌ᴀɴᴀɢᴇ 𝐘ᴏᴜʀ 𝐆ʀᴏᴜᴘꜱ 𝐀ɴᴅ 𝐈,ᴍ 𝐕ᴇʀʏ 𝐏ᴏᴡᴇʀꜰᴜʟʟ 𝐁ᴏᴛ! 𝐇ɪᴛ` /help
- [❤](https://telegra.ph/file/7e95a40d145e56a3e9053.jpg)
+ [❤](https://telegra.ph/file/4f7d1ef63ac497c783b6f.jpg)
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕ ⚡𝐀ᴅᴅ 𝐌ᴇ 𝐓ᴏ 𝐎ᴜʀ 𝐆ʀᴏᴜᴩ⚡ ➕", url="t.me/Luna_MusicBot?startgroup=true"),
+            text="➕ ⚡𝐀ᴅᴅ 𝐌ᴇ 𝐓ᴏ 𝐎ᴜʀ 𝐆ʀᴏᴜᴩ⚡ ➕", url="t.me/Nistha_robot?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="📢𝐏ᴏᴡᴇʀᴇᴅ 𝐁y", url=f"https://t.me/The_Blaze_Network"),
@@ -103,12 +103,12 @@ buttons = [
 
 HELP_STRINGS = """
 `ʏᴏᴜ ᴄᴀɴ ᴄʜᴏᴏꜱᴇ ᴀɴ ᴏᴘᴛɪᴏɴ ʙᴇʟᴏᴡ, ʙʏ ᴄʟɪᴄᴋɪɴɢ ᴀ ʙᴜᴛᴛᴏɴ..`
-ᴀʟꜱᴏ ʏᴏᴜ ᴄᴀɴ ᴀꜱᴋ ᴀɴʏᴛʜɪɴɢ ɪɴ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ [❤️](https://telegra.ph/file/7e95a40d145e56a3e9053.jpg)"""
+ᴀʟꜱᴏ ʏᴏᴜ ᴄᴀɴ ᴀꜱᴋ ᴀɴʏᴛʜɪɴɢ ɪɴ ꜱᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ [❤️](https://telegra.ph/file/4f7d1ef63ac497c783b6f.jpg)"""
 
-START_IMG = "https://telegra.ph/file/7e95a40d145e56a3e9053.jpg"
+START_IMG = "https://telegra.ph/file/4f7d1ef63ac497c783b6f.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project ][𝗛𝗮𝗿𝘀𝗵](t.me/The_Secret_worlds) \
+ You can support the project ][𝗡𝐈𝐒𝗧𝐇𝗔](t.me/The_Secret_worlds) \
  Those who cannot provide monetary support are welcome to help us develop the bot at ."""
 
 IMPORTED = {}
@@ -364,9 +364,9 @@ def zaid_about_callback(update, context):
                  \n❍ I can warn users until they reach max warns, with each predefined actions such as ban, mute, kick, etc.
                  \n❍ I have a note keeping system, blacklists, and even predetermined replies on certain keywords.
                  \n❍ I check for admins' permissions before executing any command and more stuffs
-                 \n\n_『Luna Robot』licensed under the GNU General Public License v3.0_
-                 \n❍ Assistant @Luna_MusicBot\_Assistant.
-                 \nHere is the [💾Repository](https://github.com/unknownvip/Luna-Robot).
+                 \n\n_『𝗡𝐈𝐒𝗧𝐇𝗔』licensed under the GNU General Public License v3.0_
+                 \n❍ Assistant @Nistha_robot\_Assistant.
+                 \nHere is the [💾Repository](https://github.com/Harshpanditxd/Nistha-robot).
                  \n\nIf you have any question about bot, let us know at .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
@@ -393,8 +393,8 @@ def Source_about_callback(update, context):
     query = update.callback_query
     if query.data == "source_":
         query.message.edit_text(
-            text=""" Hᴇy, 𝐈'ᴍ 『𝗠𝐈𝐒𝐒 𝗟𝐔𝐍𝐀🕊️⃝🦋𝗥𝐎𝗕𝐎𝗧』(t.me/Luna_MusicBot)
-                 \nHere is the [Source Code](https://github.com/unknownvip/Luna-Robot) .""",
+            text=""" Hᴇy, 𝐈'ᴍ 『𝗡𝐈𝐒𝗧𝐇𝗔🕊️⃝🦋𝗥𝐎𝗕𝐎𝗧』(t.me/Luna_MusicBot)
+                 \nHere is the [Source Code](https://github.com/Harshpanditxd/Nistha-robot) .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(

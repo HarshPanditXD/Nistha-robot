@@ -1,5 +1,5 @@
 {
-      "name": "『Luna Robot』",
+      "name": "『NISTHA ROBOT』",
       "description": "Telegram group management bot.",
       "logo": "https://telegra.ph/file/0b7b6460e1dc3a8bbf5be.jpg",
       "keywords": [
@@ -9,7 +9,7 @@
          "manager",
          "TGN"
       ],   
-   "repository": "https://github.com/unknownvip/Luna-Robot",
+   "repository": "https://github.com/Harshpanditxd/Nistha-robot",
    "addons": [
       {
          "options": {

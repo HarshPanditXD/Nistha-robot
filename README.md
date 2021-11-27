@@ -6,7 +6,7 @@
   <a href="https://github.com/Harshpanditxd/Nistha-robot/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
 </p>
 
-<p align="center"><a href="https://t.me/Luna_MusicBot"><img src="https://telegra.ph/file/7e95a40d145e56a3e9053.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/Luna_MusicBot"><img src="https://telegra.ph/file/4f7d1ef63ac497c783b6f.jpg" width="300"></a></p>
 
 ## 𝐀𝐯𝐚𝐢𝐥𝐚𝐛𝐥𝐞 𝐨𝐧 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 𝐚𝐬 [@Nistha_robot](https://t.me/Nistha_robot)
 

@@ -1,4 +1,4 @@
-<h1 align="center"><b>NISTHA ROBOT』</b></h1>
+<h1 align="center"><b>NISTHA ROBOT</b></h1>
 
 <h4 align="center">A PᴏᴡᴇʀFᴜʟʟ ,Sᴍᴀʀᴛ Aɴᴅ Sɪᴍᴘʟᴇ Aɴᴅ Gʀᴏᴜᴘ Mᴀɴᴀɢᴇʀ.🎵𝐆𝐫𝐨𝐮𝐩 𝐌𝐮𝐬𝐢𝐜 𝐏𝐥𝐚𝐲𝐞𝐫🎵 <br> ... Written with Harsh , Pyrogram and Telethon...</h4>
 <p align='center'>

@@ -1,4 +1,4 @@
-<h1 align="center"><b>『NISTHA ROBOT』</b></h1>
+<h1 align="center"><b>NISTHA ROBOT』</b></h1>
 
 <h4 align="center">A PᴏᴡᴇʀFᴜʟʟ ,Sᴍᴀʀᴛ Aɴᴅ Sɪᴍᴘʟᴇ Aɴᴅ Gʀᴏᴜᴘ Mᴀɴᴀɢᴇʀ.🎵𝐆𝐫𝐨𝐮𝐩 𝐌𝐮𝐬𝐢𝐜 𝐏𝐥𝐚𝐲𝐞𝐫🎵 <br> ... Written with Harsh , Pyrogram and Telethon...</h4>
 <p align='center'>
@@ -17,12 +17,11 @@
 
 > ⭐️ 𝐓𝐡𝐚𝐧𝐤𝐬 𝐓𝐨 𝐄𝐯𝐞𝐫𝐲𝐨𝐧𝐞 𝐖𝐡𝐨 𝐒𝐭𝐚𝐫𝐫𝐞𝐝『NISTHA-ROBOT』, 𝐓𝐡𝐚𝐭 𝐢𝐬 𝐓𝐡𝐞 𝐆𝐫𝐞𝐚𝐭𝐞𝐬𝐭 𝐏𝐥𝐞𝐚𝐬𝐮𝐫𝐞 𝐖𝐞 𝐇𝐚𝐯𝐞 !
 
-## 𝘾𝙡𝙞𝙘𝙠 𝙏𝙝𝙚 𝙄𝙢𝙖𝙜𝙚 𝘼𝙣𝙙 𝘿𝙚𝙥𝙡𝙤𝙮 𝙔𝙤𝙪𝙧 𝘽𝙤𝙩
 
 ## ✨ Heroku Deploy ✨
 The easiest way to deploy this Bot is via Heroku.
 
-<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/Harshpanditxd/Nistha-robot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-WHITE?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="left"><a href="https://heroku.com/deploy?template=https://github.com/Harshpanditxd/Nistha-robot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ## ✨ 𝐏𝐥𝐞𝐚𝐬𝐞 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐇𝐞𝐫𝐞 ✨
 
